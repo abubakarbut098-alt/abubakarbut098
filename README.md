@@ -46,6 +46,11 @@ https://chat.z.ai/space/x1dn73ypdup1-art
 * Built a complete website using AI
 
 
+## Website Generating Process
+* Used Gpt to get prompt
+* Used Z.ai to generate a website 
+
+
 
 A modern responsive Gym Website built using Generative AI and prompt engineering.
 
