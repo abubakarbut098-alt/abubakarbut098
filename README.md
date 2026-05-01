@@ -44,7 +44,7 @@ understanding.
 
 ## AI Tool
 
- Gpt for prompt only
+ Gpt for prompt only , &
  Z.ai
 
 ## 📌 Project Overview
